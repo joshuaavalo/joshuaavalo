@@ -58,18 +58,30 @@
 
 
 
+
 ## 📚 Proyectos Destacados
 
 ### [Proyecto 1: E-commerce App](https://github.com/AlexanderMontenegro/H-PF18B-CampeonesDelMundo)
- <a href="https://github.com/AlexanderMontenegro/H-PF18B-CampeonesDelMundo.git">
-    <img src="https://github.com/AlexanderMontenegro/AlexanderMontenegro/blob/main/img/campeonesdelmundo.png" width="200" height= "100" />
-  </a> <br>
-Una aplicación de comercio electrónico completa construida con React, Redux y Node.js. Implementa la gestión de productos, carrito de compras, y pasarela de pagos con Mercado Pago.
+<a href="https://github.com/AlexanderMontenegro/H-PF18B-CampeonesDelMundo.git">
+  <img src="https://github.com/AlexanderMontenegro/AlexanderMontenegro/blob/main/img/campeonesdelmundo.png" width="200" height="100" alt="Imagen del Proyecto E-commerce App" />
+</a>
+<br>
+Una aplicación de comercio electrónico completa construida con React, Redux y Node.js. Esta aplicación permite la gestión de productos, un carrito de compras y una pasarela de pagos integrada con Mercado Pago. 
 
 - **Frontend:** React, Redux, CSS
 - **Backend:** Node.js, Express, Sequelize
 - **Base de Datos:** PostgreSQL
 - **Integración de Pagos:** Mercado Pago Checkout Pro
+
+**Características principales:**
+- Gestión completa de productos, incluyendo creación, actualización, y eliminación.
+- Carrito de compras interactivo y funcional.
+- Sistema de autenticación y autorización para usuarios.
+- Integración de pasarela de pagos con Mercado Pago para transacciones seguras.
+- Diseño responsivo y amigable para el usuario.
+
+Para más detalles, visita el [repositorio del proyecto](https://github.com/AlexanderMontenegro/H-PF18B-CampeonesDelMundo).
+
 
 
 
