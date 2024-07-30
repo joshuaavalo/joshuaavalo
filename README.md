@@ -22,7 +22,7 @@
 
 ## 📚 Proyectos Destacados
 
-### [Proyecto 1: E-commerce App](https://github.com/tu_usuario/e-commerce-app)
+### [Proyecto 1: E-commerce App](https://github.com/AlexanderMontenegro/H-PF18B-CampeonesDelMundo)
 Una aplicación de comercio electrónico completa construida con React, Redux y Node.js. Implementa la gestión de productos, carrito de compras, y pasarela de pagos con Mercado Pago.
 
 - **Frontend:** React, Redux, CSS
@@ -45,7 +45,7 @@ Una aplicación de gestión de tareas construida con una pila MERN (MongoDB, Exp
 - **Base de Datos:** MongoDB
 
 ## 📈 Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=joshuaavalo&show_icons=true&theme=radical)
 
 ## 🌐 Conéctate Conmigo
 
